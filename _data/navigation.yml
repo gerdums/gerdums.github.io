@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
+
+- title: Archive
+  url: /posts/
+
+- title: Theme Setup
+  url: /theme-setup/
+
+- title: Resumé
+  url: /resume/
