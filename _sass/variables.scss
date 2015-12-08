@@ -9,6 +9,14 @@
   color: #9a9a9a;
 }
 
+@media screen and (min-width: 0px) and (max-width: 400px) {
+  #mobile-only { display: block; }  /* show it on small screens */
+}
+
+@media screen and (min-width: 401px) and (max-width: 1024px) {
+  #mobile-only { display: none; }   /* hide it elsewhere */
+}
+
 /*
    Typography
    ========================================================================== */
