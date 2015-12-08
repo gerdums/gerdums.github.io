@@ -9,11 +9,11 @@
   color: #9a9a9a;
 }
 
-@media screen and (min-width: 0px) and (max-width: 400px) {
+@media screen and (min-width: 0px) and (max-width: 600px) {
   #mobile-only { display: block; }  /* show it on small screens */
 }
 
-@media screen and (min-width: 401px) and (max-width: 102400000px) {
+@media screen and (min-width: 601px) and (max-width: 102400000px) {
   #mobile-only { display: none; }   /* hide it elsewhere */
 }
 
