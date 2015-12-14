@@ -28,11 +28,11 @@ kramdown:
 owner:
   name: Gareth Matson
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "Crackalacka!."
+  email: gmatson@live.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: @gareth2016
+  facebook: gareth.matson.77
   google:
     plus: #username
     analytics:
@@ -40,11 +40,11 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: gerdums
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
-  instagram: #username
+  instagram: gareth2016
   lastfm: #username
   tumblr: #username
   pinterest: #username
