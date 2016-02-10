@@ -1,19 +1,19 @@
 # Site navigation links
 
 - title: Home
-  url: /
+  url: ""
 
 - title: About
-  url: /about/
+  url: about/
 
 - title: Archive
-  url: /posts/
+  url: posts/
 
 - title: Theme Setup
-  url: /theme-setup/
+  url: theme-setup/
 
 - title: Resumé
-  url: /resume/
+  url: resume/
 
 - title: 16384
-  url: /16384/ 
+  url: 16384/ 
