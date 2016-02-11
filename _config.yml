@@ -7,7 +7,7 @@ url:				      http://gareth.tk/
 
 # Jekyll configuration
 
-permalink:   /:title/
+permalink:   :title/
 markdown:    kramdown
 highlighter: rouge
 sass:
