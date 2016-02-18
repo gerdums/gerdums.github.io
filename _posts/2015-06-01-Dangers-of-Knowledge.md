@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "The  Beautiful Dangers of Knowledge"
+title: "11th Grade Research Paper - The Beautiful Dangers of Knowledge"
 excerpt: "In our every changing society, the deep hunger and quest for knowledge is evident all over."
-tags: [school-essays]
+tags: 
+  - "school-essays"
 comments: true
+published: true
 ---
+
 
 In our every changing society, the deep hunger and quest for knowledge is evident all over. From scientists trying to discover life in space to tech companies creating wearable computers, everyone seems to always be searching for more. In her book Frankenstein Mary Shelly warned us through the main character by his words, “Learn from me, if not by my precepts, at least by my example, how dangerous is the acquirement of knowledge and how much happier that man is who believes his native town to be the world, then he who aspires to become greater than his nature will allow.” (Shelly 43) Victor warns us that we will have a much happier life is we decide to live peaceably in our own town, not worried about acquiring great knowledge. However, in twenty-first century America, knowledge, and the acquirement of it, is the key to success both individually and for all of society if done correctly and safely.
 
@@ -16,4 +19,4 @@ The pursuit of knowledge does not come without dangers. The way that that knowle
 
 Another huge danger in the pursuit of knowledge is how knowledge is used. If it is used incorrectly, it can be very harmful. For example, the atomic bomb, while many of its creators were honored for their discoveries in radioactive elements, their discovery came at great cost. Millions of lives have been lost from the terrible effects of nuclear weapons. While they can be used for good things such as creating energy to power our homes, nuclear fission can also be harnessed to cause serious harm to human life. It is these types of dangers that must be taken into consideration when pursuing knowledge.
 
-Ultimately, the pursuit of knowledge is not inherently evil as Mary Shelley would have us believe, though there can be huge dangers in the way it is collected and how it is used. Knowledge can be very helpful not only in and of itself, but it can improve our mental ability as a whole, but it also can carry huge risks such as nuclear reactions in both nuclear power plants, and in nuclear weapons. The search for knowledge must never be completely abandoned, but anyone who desires knowledge should tread wisely on their quest for the greater good.  
+Ultimately, the pursuit of knowledge is not inherently evil as Mary Shelley would have us believe, though there can be huge dangers in the way it is collected and how it is used. Knowledge can be very helpful not only in and of itself, but it can improve our mental ability as a whole, but it also can carry huge risks such as nuclear reactions in both nuclear power plants, and in nuclear weapons. The search for knowledge must never be completely abandoned, but anyone who desires knowledge should tread wisely on their quest for the greater good.
