@@ -8,10 +8,6 @@ tags:
   - responsive
 modified: 2014-08-09T00:53:07.573Z
 comments: true
-image: 
-  feature: "sample-image-2.jpg"
-  credit: WeGraphics
-  creditlink: "http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/"
 published: true
 ---
 
