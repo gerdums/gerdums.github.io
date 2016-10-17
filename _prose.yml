@@ -17,6 +17,10 @@ prose:
           field:
             element: "hidden"
             value: "true"
+        - name: "author"
+          field:
+            element: "hidden"
+            value: "gareth"
         - name: "title"
           field:
             element: "text"
