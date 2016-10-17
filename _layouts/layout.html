@@ -18,11 +18,19 @@
 		}
 	</style>	
 	<style type="text/css" media="print">
-		@page 
-		{
-			size: auto;   /* auto is the initial value */
-			margin: 7mm;  /* this affects the margin in the printer settings */
-		}
+		@page  
+			{ 
+			    size: auto;   /* auto is the initial value */ 
+
+			    /* this affects the margin in the printer settings */ 
+			    margin: 25mm 25mm 25mm 25mm;  
+			} 
+
+			body  
+			{ 
+			    /* this affects the margin on the content before sending to printer */ 
+			    margin: 0px;  
+			} 
 	</style>
 	
     <!--[if lt IE 9]>
