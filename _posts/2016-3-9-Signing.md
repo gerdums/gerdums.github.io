@@ -5,7 +5,9 @@ tags: null
 comments: true
 published: true
 ---
-SANTA CLARITA, Calif. – The Master’s College cross country and track teams look to a strong future with the recent signing of Gareth Matson, a native of Canton, Michigan.![]({{site.baseurl}}/images/img_5584.png)
+SANTA CLARITA, Calif. – The Master’s College cross country and track teams look to a strong future with the recent signing of Gareth Matson, a native of Canton, Michigan. 
+
+![]({{site.baseurl}}/images/img_5584.png)
 
 “I chose to attend The Master’s College because of its strong Biblical foundation, and how both on and off the course its athletes live out their faith,” said Matson. “I was amazed at the God-honoring environment at TMC and I am looking forward to not just growing as a runner, but as a follower of Christ.”
 
