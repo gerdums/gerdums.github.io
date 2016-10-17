@@ -10,6 +10,7 @@ tags:
   - school-essays
 share: true
 published: true
+author: gareth
 ---
 
 In Johnathan Swift’s book, Gulliver’s Travels he uses the main character, Lemuel Gulliver, to tell the stories of several different societies and how they either reflect current European society, or how they are better than society. Throughout his adventures, we learn a lot about Gulliver. As he progressively goes on more “travels” we see a shift in his attitude and actions. The environment that he lives in, both before, during and after his adventures, does in fact have a huge effect on his character as a whole and leads to a transformation of his whole person. 
