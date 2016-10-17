@@ -6,9 +6,7 @@
    Headings
    ========================================================================== */
 
-p {
-	padding:10px;
-}
+
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: $heading-font;
@@ -143,6 +141,8 @@ p {
 			margin-top: -($indent-var);
 		}
 	}
+padding:10px; !important
+	
 }
 
 /*
