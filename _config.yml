@@ -73,7 +73,7 @@ github: trending
 twitter: twitter
 tel: +44 0000 000000
 tel_full: tel:+440000000000
-google_maps: 'https://www.google.com/maps/place/The+Master's+University/@34.3816707,-118.5221546,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2866ed45fe9ad:0x6f38a00a79de16de!8m2!3d34.3816707!4d-118.5199659'
+google_maps: "https://www.google.com/maps/place/The+Master's+University/@34.3816707,-118.5221546,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2866ed45fe9ad:0x6f38a00a79de16de!8m2!3d34.3816707!4d-118.5199659"
 address: 44 Perth Street
 postcode: EH3 5BL
 city: Edinburgh
