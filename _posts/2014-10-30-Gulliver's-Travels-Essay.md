@@ -13,6 +13,7 @@ published: true
 ---
 
 In Johnathan Swift’s book, Gulliver’s Travels he uses the main character, Lemuel Gulliver, to tell the stories of several different societies and how they either reflect current European society, or how they are better than society. Throughout his adventures, we learn a lot about Gulliver. As he progressively goes on more “travels” we see a shift in his attitude and actions. The environment that he lives in, both before, during and after his adventures, does in fact have a huge effect on his character as a whole and leads to a transformation of his whole person. 
+
 Lemuel Gulliver is the third of five sons born to a lower-middle class British family. He grows up in Nottinghamshire, which is just an ordinary county with not a lot of excitement. He graduates from Emmanuel College, which although it is respected, it is not any more than an average school. From the outset, Gulliver is the epitome of the middle class. This almost stereotypical life lend itself to his “gullible” nature and how he doesn’t necessarily see the full situation at first glance. 
 
 Gulliver’s first adventure takes him to Lilliputia, which is a place where everything is smaller by a scale of six. People are only six inches tall and even the biggest buildings are no more than a few hundred square feet. Gulliver is captured by them and although he is six times bigger than they are, he doesn’t realize that he could trample them until much later. His initial interactions with these people make him a little bit arrogant, which causes him strife later on.
