@@ -3,6 +3,7 @@ layout: post
 title: "Beowulf Essay"
 tags: [school-essays]
 comments: true
+author: gareth
 ---
 
 The epic poem Beowulf presents an interesting conflict between the older pagan worldview and the newly arrived Christian worldview in Angle-Saxon Britain. It was probably written just as Christianity began to spread in the region, so although the poem is actually older, the scribes most likely altered the text slightly to appeal to the shift in culture. Despite its roots in Anglo-Saxon paganism, our current version of Beowulf presents itself as very much a “Christian” piece of literature.
