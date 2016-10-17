@@ -5,6 +5,7 @@ excerpt: "Just last week, I turned on the new, and this is what I heard."
 tags: [school-essays]
 modified: 2015-05-22
 comments: true
+author: gareth
 ---
 
 Just last week, I turned on the new, and this is what I heard.
