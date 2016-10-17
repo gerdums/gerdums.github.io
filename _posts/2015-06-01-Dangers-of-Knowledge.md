@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "11th Grade Research Paper - The Beautiful Dangers of Knowledge"
+title: "The Beautiful Dangers of Knowledge"
 excerpt: "In our every changing society, the deep hunger and quest for knowledge is evident all over."
 tags: 
   - "school-essays"
