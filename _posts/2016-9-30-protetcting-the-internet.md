@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: Protecting the Open Internet
+tags: null
+comments: true
+published: true
 ---
 ## Protecting the Open Internet
 
