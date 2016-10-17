@@ -82,3 +82,27 @@ google_analytics: UA-69300817-1
 
 # needed for travis-ci build
 exclude: [vendor]
+
+prose:
+    # Configurations ...
+    rooturl: "_posts"
+    siteurl: "http://gerdums.github.io"
+    media: "images"
+    metadata:
+      _posts:
+        - name: "layout"
+          field:
+            element: "hidden"
+            value: "post"
+        - name: "comments"
+          field:
+            element: "hidden"
+            value: "true"
+        - name: "published"
+          field:
+            element: "hidden"
+            value: "true"
+        - name: "title"
+          field:
+            element: "text"
+            label: "title"
