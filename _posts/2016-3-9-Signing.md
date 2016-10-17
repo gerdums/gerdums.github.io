@@ -25,4 +25,4 @@ Commenting on Matson’s signing, TMC cross country and track head coach Zach Sc
 
 Looking to another fruitful season, both teams will be graduating only two seniors and returning a handful of veterans.
 
-To view the growing list of commitments to The Master’s College Athletic Department for the 2016-17 academic year, click here.
+To view the growing list of commitments to The Master’s College Athletic Department for the 2016-17 academic year, check out the Master's athletic website.
