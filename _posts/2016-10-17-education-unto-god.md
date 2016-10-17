@@ -1,0 +1,19 @@
+---
+published: true
+comments: 'true'
+layout: post
+title: Education unto God
+---
+In my experience, education has been a tool that has both grown and shaped me
+into who I am. I have gone to private Christian schools all my life, and that has prepared me by shaping my understanding of the world in such a way that Christ is the center, and for that, I am grateful. From my young days in elementary school up to now, I have seen time and time again how God has used my education to shape my understanding of Him.
+
+
+I began my formal schooling in first grade. For the first several years, I went to a very small private Christian school a few minutes from my house. Beyond the usual things like learning to read and learning the times tables, I think the most important thing I learned was my need for a savior. In a chapel in first or second grade, I understood what it meant that I was a sinner destined for Hell and I realized what Jesus had done for me, an I accepted Him as my Lord. Throughout the rest of my years, there was a very big stress on learning everything through the lens of scripture and what God teaches. Looking back, that school wasn’t the best in terms of academics, but I’m glad I grew up in such a close knit environment where I received the personal attention I needed in order to grow in my faith.
+
+After that school closed after my fifth grade year due to financial troubles, I went to another, slightly larger private school for the rest of my secondary schooling. This school was definitely, in an academic sense, a step up from my previous school, and at the beginning I struggled with learning so many new things. It was comforting to know that my teachers really cared about me personally, and not just learning the various subjects, but learning about God. I remember my first year, my homeroom teacher wanted to make Bible class the most important time of the day, so he taught it in with a very unique technique. We went through a workbook that was definitely not just a sim- ple Bible study, but he set up the class so that it was almost treated as one. We would work in small groups on the pages and he would teach the material in a circle and would encourage interaction on a deeper level. In that class I learned so much more then I ever thought I could have about what the Bible actually says and what actually hap- pened, and I began to understand some of the depths of what my faith meant.
+
+In tenth grade, I really began to take my faith seriously and we had an apologet- ics class that year which was very helpful. We looked at several technical arguments for each topic that we covered (the existence of God, the reliability of Scripture, the deity of Christ and the truth of Genesis 1-2, just to name a few) and I grew in a lot of ways more then just my walk with Christ. I learned about properly framing an argument and about avoiding logical fallacies, and put all of this together in several in class mock debates.
+
+Eleventh grade was the year that I think I made some of the greatest strides. I began to get a firmer grasp on some math topics that had been difficult for me for a longs time and I was challenged with lots of new things. Further, in Bible class we worked through the book Understanding the Times which really opened my understand- ing to the way that many people think and believe, and more importantly, how to re- spond in those situations.
+
+I look forward to my time here at The Master’s University as a new chapter of un- paralleled growth in my faith. I already see changes in my life even as I have only been here for about a month. I hope that God will use the dedication of the professors and the richness of the material taught through a Biblical lens to shape me into who He wants me to be. I am amazed even know as I get to know different professors here now and how much they care for their students, and I am excited to what will happen over the next few years.
