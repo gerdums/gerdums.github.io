@@ -3,6 +3,7 @@ published: true
 comments: 'true'
 layout: post
 title: Education unto God
+author: gareth
 ---
 In my experience, education has been a tool that has both grown and shaped me
 into who I am. I have gone to private Christian schools all my life, and that has prepared me by shaping my understanding of the world in such a way that Christ is the center, and for that, I am grateful. From my young days in elementary school up to now, I have seen time and time again how God has used my education to shape my understanding of Him.
