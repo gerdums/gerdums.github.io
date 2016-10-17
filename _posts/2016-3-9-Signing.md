@@ -1,10 +1,12 @@
 ---
-layout: post
-title: Signing with Master's
-tags: null
-comments: true
 published: true
+comments: true
+layout: post
+title: Mustang Cross Country and Track Signs Matson
+tags: null
 ---
+> This article was taken from the Master's College Athletic website: <http://www.masters.edu/athletics/menssports/cross-country/news/mustang-cross-country-and-track-signs-matson/>
+
 SANTA CLARITA, Calif. – The Master’s College cross country and track teams look to a strong future with the recent signing of Gareth Matson, a native of Canton, Michigan. 
 
 ![]({{site.baseurl}}/images/img_5584.png)
