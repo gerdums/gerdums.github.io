@@ -86,7 +86,7 @@ exclude: [vendor]
 prose:
     # Configurations ...
     rooturl: "_posts"
-    siteurl: "http://gareth.tk"
+    siteurl: "http://old.gareth.tk"
     media: "images"
     metadata:
       _posts:
