@@ -3,20 +3,11 @@
 - title: Home
   url: ""
 
-- title: About
-  url: /about/
-
 - title: Archive
   url: /posts/
-
-- title: Theme Setup
-  url: /theme-setup/
 
 - title: Resumé
   url: https://garethmatson.com/resume.pdf
 
 - title: 16384
-  url: https://blog.garethmatson.com/16384/
-
-- title: Portfolio
-  url: /portfolio/
+  url: /16384/
