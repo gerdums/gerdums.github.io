@@ -28,8 +28,8 @@ kramdown:
 owner:
   name: Gareth Matson
   avatar: bio-photo.jpg
-  bio: "Here you will find my random musings, as well as copies of some of my school essays and papers. I hope you enjoy! Crackalacka!"
-  email: gmatson@live.com
+  bio: "Here you will find my random musings, as well as copies of some of my school essays and papers. I hope you enjoy!"
+  email: me@garethmatson.com
   disqus-shortname:
   twitter: gareth2016
   facebook: gareth.matson.77
@@ -42,7 +42,7 @@ owner:
   bing-verify:
   github: gerdums
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: gareth-matson
   xing: #username
   instagram: gareth2016
   lastfm: #username
