@@ -1,6 +1,8 @@
 # Site navigation links
-
 - title: Home
+  url: https://garethmatson.com
+
+- title: Blog
   url: ""
 
 - title: Archive
@@ -8,6 +10,3 @@
 
 - title: Resumé
   url: https://garethmatson.com/resume.pdf
-
-- title: 16384
-  url: /16384/
