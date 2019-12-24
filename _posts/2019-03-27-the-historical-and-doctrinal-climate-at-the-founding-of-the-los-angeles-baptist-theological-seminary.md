@@ -27,6 +27,6 @@ Steeped in a Baptist culture that was leaning towards the left and was ready to 
 
 #### Footnotes
 [^1]: "The Master's University - Home," The Master's University, , accessed March 27, 2019, http://www.masters.edu/.
-[^2]: Paul Matzko, Ph.D, "Baptist Bible Union," Events | Baptist Bible Union | Timeline | The Association of Religion Data Archives, , accessed March 27, 2019, http://www.thearda.com/timeline/events/event_101.asp.
+[^2]: Paul Matzko, Ph.D, "Baptist Bible Union," Events \| Baptist Bible Union \| Timeline \| The Association of Religion Data Archives, , accessed March 27, 2019, http://www.thearda.com/timeline/events/event_101.asp.
 [^3]: This serves as a compelling example in history of the importance of a high view of Scripture and an emphasis on doctrine. The kind of tactics used by the modernists in 1922 has not gone away, theological liberals today still use similar logic to defend much of their heresy. E.g. many charismatic prosperity preachers will claim to stand on the Bible and the Bible alone while denying essential Biblical doctrines like the trinity. 
-[^4]: Paul Matzko, Ph.D, "Baptist Bible Union," Events | Baptist Bible Union | Timeline | The Association of Religion Data Archives, , accessed March 27, 2019, http://www.thearda.com/timeline/events/event_101.asp.
+[^4]: Paul Matzko, Ph.D, "Baptist Bible Union," Events \| Baptist Bible Union \| Timeline \| The Association of Religion Data Archives, , accessed March 27, 2019, http://www.thearda.com/timeline/events/event_101.asp.
