@@ -82,6 +82,13 @@ google_analytics: UA-69300817-1
 
 # needed for travis-ci build
 exclude: [vendor]
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
 
 prose:
     # Configurations ...
