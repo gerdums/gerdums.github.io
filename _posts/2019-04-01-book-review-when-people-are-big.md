@@ -3,6 +3,7 @@ title: 'Book Review | When People are Big and God is Small'
 layout: post
 tags:
   - book-review
+published: false
 category: book-review
 ---
 Ed Welch in this powerful book talks about the prevailing reality of the fear of man in our hearts. He talks about how and why we make other people’s opinions and ideas idols in our hearts, and then devotes the majority of the book to how we overcome that heart idolatry. He lays out the first half of the book with a series of propositions, statements that we often make that highlight our fear of men and how we make that an idol in our lives. The second half deals with how we see ourselves and how we see God and that the ultimate cure for fear of man is to properly fear God.
