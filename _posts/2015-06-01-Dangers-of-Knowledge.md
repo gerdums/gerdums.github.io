@@ -1,12 +1,10 @@
 ---
+title: 'The Beautiful Dangers of Knowledge'
 layout: post
-title: "The Beautiful Dangers of Knowledge"
-excerpt: "In our every changing society, the deep hunger and quest for knowledge is evident all over."
-tags: 
-  - "school-essays"
-comments: true
-published: true
-author: gareth
+tags:
+  - school-essays
+published: false
+category: 
 ---
 
 
