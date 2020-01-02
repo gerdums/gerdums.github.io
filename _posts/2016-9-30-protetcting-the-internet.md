@@ -1,10 +1,9 @@
 ---
+title: 'Protecting the Open Internet'
 layout: post
-title: Protecting the Open Internet
-tags: null
-comments: true
-published: true
-author: gareth
+tags: []
+published: false
+category: 
 ---
 
 The internet is arguably the most prevalent fixture in our lives today. We use if for everything from checking the weather to understanding the many facets of controversial topics; therefore, the fight to keep it free and open is of great importance. The argument over net neutrality that has been happening in our government is very important, and we must do everything to protect our right to access the whole internet; but this is an issue that fundamentally cannot be solved with the current understanding of how the internet works and with the two sides that frame the current debate. Net neutrality plays an important role and is a necessary first step, but we can and we must do more to protect the free and open internet.
