@@ -3,6 +3,7 @@ title: 'The Historical and Doctrinal Climate at the Founding of The Los Angeles 
 layout: post
 tags:
   - history
+published: false
 category: school-paper
 ---
 The Master’s University and Seminary (TMUS) has a long history as an institution with a firm commitment and conviction for Christ and Scripture. Well known preacher and University president John MacArthur highlights this commitment when he says that TMU is “Rooted in an unwavering devotion to Jesus Christ and the inerrant Word of God, our world-class faculty and dedicated administration prepare each student's heart and mind for a life of eternal influence.”[^1]  This commitment goes long before Pastor MacArthur’s leadership and can be traced back to the beginning of the institution when it was started as The Lost Angeles Baptist Theological Seminary (LABTS) by Dr. William Matthews, the founder and first president. The institution was not started in a vacuum, rather, the institution rose out of a need to a place to prepare and teach men to preach the Word of God in a culture and church environment of growing modernism and liberalism. 
