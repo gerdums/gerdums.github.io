@@ -1,8 +1,9 @@
 ---
-author: gareth
-comments: 'true'
-layout: post
 title: 'He Will Hold us Fast'
+layout: post
+tags: []
+published: false
+category: 
 ---
 How do you know you are a Christian? Is there any way you can be sure of your salvation?[^1] Can you lose it yourself? These are all questions that most of us have wrestled with at some point, and maybe you are asking these questions right now. The book of Hebrews offers guidance and hope in our times of doubt and our response to what it says is very telling of where our hearts truly are.
 
